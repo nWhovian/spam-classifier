@@ -1,2 +1,2 @@
-# spam-classifier
-Bayesian Classifier for filtering the spam messages implemented in Python.
+# Bayesian Classifier for filtering the spam messages
+All the necessary description can be found in spam-classifier.ipynb
